@@ -1,6 +1,7 @@
 # Amigo Secreto
 
-##Sobre o Projeto
+#Sobre o Projeto
+
 Esse projeto foi criado como parte de um desafio da ONE (Oracle Next Education). O foco foi aprimorar as habilidades em lógica de programação ao desenvolver uma aplicação bem simples e interativa para sorteio de amigo secreto.
 
 Nele, você consegue cadastrar nomes, fazer o sorteio de um amigo aleatório e acompanhar tudo à medida que os sorteios vão rolando. Super fácil, divertido e super útil para um amigo secreto.
